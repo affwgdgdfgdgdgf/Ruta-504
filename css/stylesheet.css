@@ -1,0 +1,134 @@
+@charset "utf-8";
+/* CSS Document */
+
+:root{
+	
+}
+
+Body{
+	font-family: "Arial";
+}
+
+header{
+	background-color: #1E1E1E;
+	
+}
+
+.padding-section {
+	padding: 50px 0;
+}
+
+#hero {
+	background-image: url("../img/79696-Omoa.jpg");
+	background-size: cover;
+	background-position: center;
+	padding: 350px 0 50px;
+	color: #fff;
+	background-color: rgba(0,0,0,0.63);
+}
+
+#hero h1 {
+	color: #fff;
+	background-color: rgba(0,0,0,0.63);
+	font-size: 88px;
+	font-weight: bold;
+	border-radius: 37px;
+	padding: 10px 20px;
+}
+
+.titulo {
+	font-size: 56px;
+	font-weight: bold;
+	color: #FF7C58;
+	margin: 0px 0 50px;
+}
+
+.Subtitulo {
+	align-content: center;
+
+}
+
+#RUTA-504 {
+	text-align: center;
+	
+}
+
+#info { 
+	font-size: 48px; 
+	background-color: #0399C5;
+	color: #fff;
+	text-align: left;
+	margin: 100px 0;
+	padding: 25px 0;
+	
+}
+
+#info-2 { 
+	font-size: 48px; 
+	background-color: #0399C5;
+	color: #fff;
+	text-align: left;
+	margin: 100px 0;
+	padding: 25px 0;
+}
+
+#info-3 { 
+	font-size: 48px; 
+	background-color: #0399C5;
+	color: #fff;
+	text-align: left;
+	margin: 100px 0;
+	padding: 25px 0;
+}
+
+.btn-primary {
+	background-color: #FF7C58;
+	color: #fff;
+	font-size: 40px;
+	font-weight: bold;
+	border-radius: 32px;
+	padding: 40px 15px;
+}
+
+#servicios {
+	text-align: center;
+	color: #FF7C58;
+	font-size: 40px;
+	width: 542; 
+	height: 562;
+	margin: 135px 0;
+}
+
+.titulo-2{
+	color: #0399C5;
+	font-weight: bold;
+	padding: 30px 0;
+	font-size: 64px;
+}
+
+#cta{
+	text-align: center;
+	background-image: url("../img/662a9a37-city-47807-158e432ed46.jpg");
+	background-size: cover;
+	background-position: center;
+	padding: 756px 0 0;
+	
+}
+
+.btn-secondary{
+	background-color: rgba(0,0,0,0.63);
+	margin: 90px 0;
+	color: #fff;
+	font-size: 40px;
+	font-weight: bold;
+	border-radius: 32px;
+	padding: 40px 15px;
+}
+
+footer {
+	background-color: #0399C5;
+	color: #fff;
+	padding: 25px 0;
+	text-align: center;
+	margin: 30px 0 0 0;
+}
