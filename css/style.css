@@ -154,3 +154,14 @@ footer {
 .fa-envelope{
 	padding: 0 2px 0 0;
 }
+.section-title {
+      color: #f85f3e;
+      font-weight: bold;
+    }
+
+.info-nosotros {
+	align-content: center;
+	padding: 10px;
+	font-size: 33px;
+ 	
+}
