@@ -60,10 +60,18 @@ header{
 	align-content: center;
 	padding: 40px;
 	font-size: 38px;
+	color: #fff;
 
 }
 
-#RUTA-504 {
+.subtitulo{
+	color: #fff;
+	padding: 0px 40px;
+}
+
+
+
+#ruta-504 {
 	text-align: center;
 	
 }
@@ -77,6 +85,46 @@ header{
 	
 }
 
+#nuestros-servicios h1{
+	font-weight: bold;
+	text-align: center;
+	color: var(--color-Titulo-2);
+	font-size: 50px;
+	margin: 18px 0;
+}
+
+
+#reservaciones{
+	background-image: url("../img/Group 66.png");
+	background-size: cover;
+	margin: 50px 0 100px;
+	padding: 15% 0;
+	background-position: center;
+}
+
+#guias{
+	background-image: url("../img/Group 67.png");
+	background-size: cover;
+	margin: 50px 0 100px;
+	padding: 15% 0;
+	background-position: center;
+}
+
+#itinerarios{
+	background-image: url("../img/Group 68.png");
+	background-size: cover;
+	margin: 50px 0 100px;
+	padding: 15% 0;
+	background-position: center;
+}
+
+#calendarios{
+	background-image: url("../img/Group 69.png");
+	background-size: cover;
+	margin: 50px 0 100px;
+	padding: 15% 0;
+	background-position: center;
+}
 
 .btn-primary {
 	background-color: #FF7C58;
@@ -86,11 +134,25 @@ header{
 	border-radius: 32px;
 	padding: 40px 10px;
 	border-color: #FF7C58;
+	text-align: center;
 	font-family: "Montserrat", sans-serif;
 }
 
 .btn-primary:hover{
 	background-color: #0399C5;
+}
+
+
+.vacaciones-btn {
+	background-color: #FF7C58;
+	color: #fff;
+	font-size: 60px;
+	font-weight: bold;
+	border-radius: 32px;
+	padding: 40px 10px;
+	border-color: #FF7C58;
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
 }
 
 #servicios {
@@ -101,7 +163,15 @@ header{
 }
 
 .texto-servicios {
-	padding: 20px 0;
+	padding: 40px;
+	font-size: 40px;
+	color: #fff;
+}
+
+.subtitulo {
+	font-size: 48px;
+	font-weight: bold;
+	font-family: "Montserrat", sans-serif
 }
 
 #servicios img {
@@ -162,6 +232,9 @@ footer {
 .info-nosotros {
 	align-content: center;
 	padding: 10px;
-	font-size: 33px;
- 	
+	font-size: 33px;	
+}
+
+#ctb{
+	text-align: center;
 }
